@@ -1,5 +1,5 @@
 ## tvlogos
-A collection of tvlogos for US, Canada and UK
+A collection of tvlogos for US, Canada and UK and much more.  More will be added in the next few days.  Update network affiliates now in network specific subfolders by country.
 
 # How to use
 
